@@ -14,7 +14,7 @@ height: 150px;
     background-color: cadetblue;
     position: absolute;
     margin-top: 160px;
-    margin-left: 0px;
+    margin-left: 0;
     text-align: left;
 }
 .block2{
@@ -23,7 +23,7 @@ height: 150px;
     border: 1px solid black;
     background-color: cadetblue;
     position: absolute;
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 110px;
     text-align: right;
 }
@@ -44,7 +44,7 @@ height: 150px;
     background-color: cadetblue;
     position: absolute;
     margin-top: 320px;
-    margin-left: 0px;
+    margin-left: 0;
     text-align: left;
 }
 .block5{
@@ -63,7 +63,7 @@ height: 150px;
     border: 1px solid black;
     background-color: cadetblue;
     position: absolute;
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 260px;
 }
 .block7{
@@ -90,7 +90,7 @@ height: 150px;
     border: 1px solid black;
     background-color: cadetblue;
     position: absolute;
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 370px;
     text-align: right
 }
@@ -125,26 +125,38 @@ height: 150px;
     text-align: center;
 }
 .manon{
-    margin-left: 0px;
+    margin-left: 0;
     margin-top:80px;
     position: absolute;
 }
 .romain{
-    margin-left: 0px;
+    margin-left: 0;
     margin-top:80px;
     position: absolute;
 }
 .michelle{
-    margin-left: 0px;
+    margin-left: 0;
     margin-top:80px;
     position: absolute;
 }
 .quentin{
-    margin-right: 0px;
+    margin-right: 0;
     margin-top:80px;
 
 }
 .maxime{
-    margin-right: 0px;
+    margin-right: 0;
+    margin-top:80px;
+}
+.ludovic{
+    margin-right: 0;
+    margin-top:80px;
+}
+.elena{
+    margin-right: 0;
+    margin-top:80px;
+}
+.david{
+    margin-right: 0;
     margin-top:80px;
 }
